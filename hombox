@@ -1,0 +1,6 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO-avc1_2499968=11-mp4a_66000_eng=2.m3u8
